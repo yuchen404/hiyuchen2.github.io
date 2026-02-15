@@ -58,7 +58,7 @@ IEEE Transactions on Communications \
 * **On the Optimality of All-to-All Broadcast Over Cache-Aided Ring Networks** \
 **Zhenhao Huang**, Minquan Cheng, Qifu Tyler Sun, Youlong Wu \
 2025 IEEE International Symposium on Information Theory (ISIT) \
-Preprint, 2025.06
+[Paper](https://ieeexplore.ieee.org/abstract/document/11195288), 2025.06
 
 * **Secure Gradient Aggregation for Wireless Multi-Server Federated Learning** \
 **Zhenhao Huang**, Songze Li, Kai Liang, Youlong Wu \
